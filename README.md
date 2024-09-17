@@ -16,10 +16,10 @@
  
 <div align="center"> 
   <a href="mailto:manelbana079@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://skillicons.dev/icons?i=Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/abdelrahmanwisam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://skillicons.dev/icons?i=Linkedin" />
   </a>
   <a href="https://github.com/A-Elbana" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
@@ -31,8 +31,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mysql,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,Dart,MySQL,Tensforflow" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git,Flutter,Ubuntu,firebase" />
+    <br>
 </div>
 
 <br/>

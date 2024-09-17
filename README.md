@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdelrahman+Elbana!;" />
 </h1>
 
-<h3 align="center">Computer Engineering Student @ [Cairo University Faculty Of Engineering](https://eng.cu.edu.eg/ar/)</h3>
+<h3 align="center">Computer Engineering Student @ <a href="https://eng.cu.edu.eg/ar/">Cairo University Faculty Of Engineering</a></h3>
 
 <br/>
 

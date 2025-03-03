@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a><br/>
   <a href="https://portfolio-b7d68.web.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,javascript,dart,mysql,tensorflow" />
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git,flutter,ubuntu,firebase" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,github,figma,git,flutter,ubuntu,firebase" />
     <br>
 </div>
 

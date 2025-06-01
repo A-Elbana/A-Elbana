@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **an Autonomous System for @CUERT**
  
- 🌱 I’m currently learning **Pytorch, Reinforcement Learning, Autonomous Systems**
+ 🌱 I’m currently learning **Reinforcement Learning, Autonomous Systems, Edge AI, Low-Level Computing**
 
  </div>
  
@@ -31,8 +31,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,dart,mysql,tensorflow" />
-    <img src="https://skillicons.dev/icons?i=react,html,css,github,figma,git,flutter,ubuntu,firebase" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,dart,mysql,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=react,github,figma,git,flutter,ubuntu,firebase,ros" />
     <br>
 </div>
 

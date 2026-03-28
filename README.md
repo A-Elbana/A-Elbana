@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **an Autonomous System for @CUERT**
  
- 🌱 I’m currently learning **Reinforcement Learning, Autonomous Systems, Edge AI, Low-Level Computing**
+ 🌱 I’m currently learning **Hardware Design, Reinforcement Learning, Edge AI**
 
  </div>
  
